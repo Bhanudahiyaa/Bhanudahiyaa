@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Bhanu Pratap Singh
 **MERN Stack Developer|| UI/UX Design**
 
-Check My Work 👉 ✉️ **69ftw.site** 
+Check My Work 👉 ✉️ **https://www.69ftw.site** 
 
 - ⚡ **Fun fact:** This dashboard has seen more commits than my group projects ever did.
 
