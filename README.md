@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Bhanu Pratap Singh
-**MERN Stack Developer|| UI/UX Design**
+  Bhanu Pratap Singh
+ PERN Stack Developer 
 
 Check My Work 👉 ✉️ **https://www.69ftw.site** 
 
