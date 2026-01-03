@@ -1,4 +1,4 @@
-# PERN Stack Developer  
+# I Build ( yes i really do )  
 
 Currently working at **MCP** on distributed systems & server architecture with a focus on scalability and resilience.  
 
