@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=bhanudahiyaa&base=1000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bhanudahiyaa&base=1500&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/bhanudahiyaa?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
