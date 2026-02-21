@@ -1,4 +1,20 @@
-# I Build ( yes i really do )  
+
+<h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=bhanudahiyaa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  <!-- Github Followers -->
+  <img src="https://img.shields.io/github/followers/bhanudahiyaa?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+
+  <!-- Github Stars -->
+  <img src="https://img.shields.io/github/stars/bhanudahiyaa?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
+</div>
+
+<br/>
+
+<br/>  
 
 Currently working at **MCP** on distributed systems & server architecture with a focus on scalability and resilience.  
 
