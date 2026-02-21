@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/bhanudahiyaa?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
 
   <!-- Github Stars -->
-  <img src="https://img.shields.io/github/stars/bhanudahiyaa?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/bhanudahiyaa?label=Stars&logo=github&style=plastic" alt="GitHub Stars" />
 </div>
 
 <br/>
