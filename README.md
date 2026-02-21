@@ -22,7 +22,7 @@ I'm Bhanu Dahiya from India.<br><br>
 - Previously worked as a Backend Developer for <a href="https://https://www.firstcontact.lgbt/" target="_blank">FirstContact</a>.<br>
 - Currently working at MCP on distributed systems & server architecture.<br>
 </p>
-<br>
+
 Check My Work 👉 <a href="https://69ftw.site" target="_blank">69ftw.site</a>.<br>
 </p>  
 
