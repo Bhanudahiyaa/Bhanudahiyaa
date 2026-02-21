@@ -15,12 +15,14 @@
 <br/>
 
 <br/>  
-
-Currently working at **MCP** on distributed systems & server architecture with a focus on scalability and resilience.  
-
+<h3 align="left">About Me</h3>
+<p align="left">
+I'm Bhanu Dahiya from India.<br><br>
+- I'm currently working as a Founding Engineer at <a href="https://actory.ai" target="_blank">Actory AI</a>.<br>
+- Previously worked as a Backend Developer for <a href="https://https://www.firstcontact.lgbt/" target="_blank">FirstContact.<br>
+- Currently working at **MCP** on distributed systems & server architecture with a focus on scalability and resilience.<br>
+</p>  
 **Check My Work** 👉 [69ftw.site](https://www.69ftw.site)  
-*Fun fact: This dashboard has seen more commits than my group projects ever did.*  
-
 
 ## Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/bhanudahiyaaa) 
