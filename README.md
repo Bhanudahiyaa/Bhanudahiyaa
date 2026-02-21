@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
+<h1 align="center">Hey there, I'm Bhanu Dahiya!</h1>
 
 <div align="center">
   
