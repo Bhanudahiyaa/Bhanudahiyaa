@@ -27,7 +27,7 @@
 
 
 
-> these don’t matter tbh, check my portfolio instead 🍒
+> I build ( yes i really do ), check my portfolio 🍒
 
 
 <h3 align="left">Portfolio</h3>
