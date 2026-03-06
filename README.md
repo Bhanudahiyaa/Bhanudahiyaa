@@ -1,7 +1,7 @@
-<h3 align="left">I build ( yes, I really do )</h3>
+<h3 align="center">I build ( yes, I really do )</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhanudahiyaa&base=1500&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bhanudahiyaa&base=2500&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/bhanudahiyaa?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/bhanudahiyaa?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
