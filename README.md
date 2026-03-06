@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/stars/bhanudahiyaa?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
 
-<br />
 
 <h3 align="left">About Me</h3>
 <p align="left">
