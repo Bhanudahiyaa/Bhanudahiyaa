@@ -8,7 +8,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
 
-- I'm currently working as a Founding Engineer at <a href="https://actory.ai" target="_blank">Actory AI</a><br/>
+- I'm currently working as a Fullstack Engineer at <a href="https://www.zineps.com" target="_blank"> Zineps & Founding Engineer at <a href="https://actory.ai" target="_blank">Actory AI</a><br/>
 - Previously worked as a Backend Developer for <a href="https://www.firstcontact.lgbt/" target="_blank">FirstContact</a><br/>
 - Currently working at MCP on distributed systems & server architecture.<br/>
 </p>
